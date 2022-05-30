@@ -19,4 +19,10 @@ body{
     border-width: 5px;
     width: 5%; 
   }
+
+  .IntroTable
+  {
+        padding: 1px;
+        text-align: start;
+  }
   
